@@ -1,0 +1,44 @@
+
+C++
+
+Datatypes , format specifier, bit width
+Scanf / printf
+cin/cout
+formatted output
+Conditional statements
+Arrays
+Looping for while do while 
+Preprocessor directives
+Pointers
+	void update(int *a,int *b) {
+    int n = *a +*b,m= abs(*a-*b);
+    *a =n;
+    *b =m;
+Class and template 
+Template specialisation
+Scope resolution operator :: eg std::
+Maps and hashing
+	 map <int , string > newM ;
+    newM[1]="one";
+    newM[2]="two";
+    newM[3]="three";
+    newM[4]="four";
+    newM[5]="five";
+    newM[6]="six";
+    newM[7]="seven";
+    newM[8]="eight";
+    newM[9]="nine";
+Vectors + stl iterators
+Vector <vector<int>>
+	Move
+Cmath,cstdlib,
+Rand() and seed 
+	srand(seed)
+(rand()%(upperB - lowerB +1))+lowerB	
+Algorithm stl
+Try and catch
+String stream sstream
+
+Ascii values -> static_cast <int>
+Concat using  str1+str2  and str1.append(str2)
+
