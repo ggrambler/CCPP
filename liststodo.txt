@@ -38,7 +38,7 @@ Rand() and seed
 Algorithm stl
 Try and catch
 String stream sstream
-
+swap to reverse in place 
 Ascii values -> static_cast <int>
 Concat using  str1+str2  and str1.append(str2)
 
