@@ -30,6 +30,7 @@ Maps and hashing
     newM[9]="nine";
 Vectors + stl iterators
 Vector <vector<int>>
+unordered_set <int > <char > etc.
 	Move
 Cmath,cstdlib,
 Rand() and seed 
