@@ -39,7 +39,7 @@ public:
             if (i != n && j != m) {
                 if (nums1[i] > nums2[j]) {
                     m1 = nums2[j++];
-                } else {
+                } else{
                     m1 = nums1[i++];
                 }
             } else if (i < n) {
