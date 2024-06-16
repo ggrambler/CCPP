@@ -1,3 +1,10 @@
+// This is bad code .
+// The entire question can be solved by sorting the 2 vectors and
+// then finding difference of each ith element and adding them up 
+// diff is absolute 
+// moves += abs(student[i] - seats[i])
+// return moves
+
 #include <vector>
 #include <iostream>
 #include <map>
